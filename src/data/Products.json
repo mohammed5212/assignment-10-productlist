@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSi4j7NER4kxKFews3gk8UMIvkgyssmcSpSrjutIQikyodcKj3e6RbfQhICJ13BRA699rg0l9so5agiwfQpsImjKZXSN8KhF8GOe7OlnWT"
+  },
+  {
+    "id": 2,
+    "title": "Smart LED TV 32 Inch",
+    "category": "Electronics",
+    "price": 15999,
+    "image": "https://static.wixstatic.com/media/94060f_f0afcaf1402c4410bf275fbe2470533d~mv2.png/v1/fill/w_490,h_490,al_c,lg_1,q_85,enc_avif,quality_auto/94060f_f0afcaf1402c4410bf275fbe2470533d~mv2.png"
+  },
+  {
+    "id": 3,
+    "title": "Men's Casual Denim Jacket",
+    "category": "Fashion",
+    "price": 1999,
+    "image": "https://m.media-amazon.com/images/I/81T9vdBTX8L._UY1100_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Women's Floral Summer Dress",
+    "category": "Fashion",
+    "price": 1499,
+    "image": "https://www.odhanon.in/cdn/shop/files/F21A6832_copy.jpg?v=1737811717&width=1946"
+  },
+  {
+    "id": 5,
+    "title": "Men's Sports Running Shoes",
+    "category": "Fashion",
+    "price": 2499,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWf46pS6BbIuOg69ceynHFv73mJH1_wkkW7-Dk-AvUovrAWziFjS97OCwFK1jxunSD4JHRNFsF1066rcA3CLBCrWOUmklyBzw3Y5VgWzusmtyUCgeZRqbv"
+  },
+  {
+    "id": 6,
+    "title": "Electric Kettle 1.5L",
+    "category": "Home & Kitchen",
+    "price": 1299,
+    "image": "https://myborosil.com/cdn/shop/products/my-borosil-electric-kettles-rio-electric-kettle-1-5l-29496507990154.jpg?v=1677172297"
+  },
+  {
+    "id": 7,
+    "title": "Non-stick Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 3499,
+    "image": "https://m.media-amazon.com/images/I/618r4FsyUdL.jpg"
+  },
+  {
+    "id": 8,
+    "title": "LED Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 799,
+    "image": "https://m.media-amazon.com/images/I/61QPRxJk3dL.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Smartphone 128GB",
+    "category": "Electronics",
+    "price": 22999,
+    "image": "https://m.media-amazon.com/images/I/61VxzkiD1EL.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Bluetooth Portable Speaker",
+    "category": "Electronics",
+    "price": 1799,
+    "image": "https://m.media-amazon.com/images/I/71L9o0-0SML._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "title": "4K Smart LED TV 55 Inch",
+    "category": "Electronics",
+    "price": 42999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0h3QusTgWALmOWr_SgsGhqNqPAfmH4qkHg&s"
+  },
+  {
+    "id": 12,
+    "title": "Wireless Noise Cancelling Earbuds",
+    "category": "Electronics",
+    "price": 2999,
+    "image": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard1_62825ddf-c654-4921-92b3-2bdfb29c8d24.jpg?v=1745907275"
+  },
+  {
+    "id": 13,
+    "title": "Men's Leather Wallet",
+    "category": "Fashion",
+    "price": 999,
+    "image": "https://m.media-amazon.com/images/I/81aCiKE2FML._UY1100_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Women's Handbag",
+    "category": "Fashion",
+    "price": 1899,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufxSuBkGdypyxo6auHE8JEiLn0YuQwrn9Pg&s"
+  },
+  {
+    "id": 15,
+    "title": "Sports Fitness Watch",
+    "category": "Electronics",
+    "price": 3499,
+    "image": "https://drtrust.in/cdn/shop/products/dr-trust-healthpal-2-smart-watch-1-7-hd-display-calling-feature-heart-rate-spo2-29292511100974_700x700.jpg?v=1682059995"
+  },
+  {
+    "id": 16,
+    "title": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 499,
+    "image": "https://bergnerhome.in/cdn/shop/files/BGIN-6565-1.jpg?v=1736093998"
+  },
+  {
+    "id": 17,
+    "title": "Double Bed Comforter",
+    "category": "Home & Kitchen",
+    "price": 2199,
+    "image": "https://images.woodenstreet.de/image/cache/data/HOMEWARDS/quilts-and-comforters/white-circle-double-bed-ac-comforter/H-1-810x702.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Microwave Oven 20L",
+    "category": "Home & Kitchen",
+    "price": 5999,
+    "image": "https://www.lg.com/content/dam/channel/wcms/in/images/microwave-ovens/ms2043db_db1qiln_eail_in_c/gallery/MS2043DB-microwave-ovens-Front-view-D-01.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Gaming Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 2699,
+    "image": "https://m.media-amazon.com/images/I/71GTESZlpGL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Cordless Vacuum Cleaner",
+    "category": "Home & Kitchen",
+    "price": 7499,
+    "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/india/2022/nov/primary-blue-sb.png?scl=1"
+  }
+
+]
